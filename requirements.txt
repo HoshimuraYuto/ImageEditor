@@ -2,7 +2,7 @@ altgraph==0.17
 Jinja2==3.0.1
 macholib==1.15
 MarkupSafe==2.0.1
-numpy==1.21.2
+numpy==1.22.0
 opencv-python==4.5.3.56
 packaging==21.0
 piexif==1.1.3
